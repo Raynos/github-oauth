@@ -1,8 +1,11 @@
 {
   "name": "github-oauth",
   "description": "simple functions for doing oauth login with github",
-  "keywords": ["github", "oauth"],
-  "version": "0.0.4",
+  "keywords": [
+    "github",
+    "oauth"
+  ],
+  "version": "0.0.4-callback",
   "repository": "git://github.com/maxogden/github-oauth.git",
   "author": {
     "name": "max ogden",
